@@ -1,0 +1,15 @@
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.deps.json
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.runtimeconfig.json
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.runtimeconfig.dev.json
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.dll
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.pdb
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.csprojAssemblyReference.cache
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.csproj.CoreCompileInputs.cache
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.AssemblyInfoInputs.cache
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.AssemblyInfo.cs
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.dll
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.pdb
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\ChanStorage.dll.config
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\bin\Debug\netcoreapp2.1\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\mt2si\Desktop\projekty\ACTIVE projects\ChanStorage\ChanStorage\ChanStorage\obj\Debug\netcoreapp2.1\ChanStorage.csproj.CopyComplete
